@@ -74,5 +74,5 @@ async def display_hero():
 
 
 client.loop.create_task(display_hero())
-client.run('ODYwNzQ2ODQxNTE1MzYwMjc3.YN_u9g.YBEfkB0xQgg7sxaq_uzYMdVU3c4')
+client.run('test')
 
